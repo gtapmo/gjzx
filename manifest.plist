@@ -17,13 +17,13 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/gtapmo/gjzx/master/glzx57.png</string>
+					<string>https://</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/gtapmo/gjzx/master/glzx512.png</string>
+					<string>https://</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -31,11 +31,11 @@
 				<key>bundle-identifier</key>
 				<string>com.gta.gjzx</string>
 				<key>bundle-version</key>
-				<string>1.0.0</string>
+				<string>1.0.3</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>guolongcustom</string>
+				<string>国匠在线</string>
 			</dict>
 		</dict>
 	</array>
